@@ -1,0 +1,19 @@
+John Doe
+Software Engineer - Recent Graduate
+
+SKILLS:
+Python, Django, React, JavaScript, MySQL, Git.
+
+EXPERIENCE:
+Intern at TechCorp (3 Months)
+- Built a web scraper using Python.
+- Optimized database queries in MySQL.
+
+PROJECTS:
+AI Chatbot: Built using Gemini API and Python.
+E-Commerce Site: Created using React and Node.js.
+
+EDUCATION:
+Diploma in Computer Engineering - 2025
+
+GitHub: github.com/torvalds
